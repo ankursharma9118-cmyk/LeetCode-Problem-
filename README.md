@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1991-find-the-middle-index-in-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0056-merge-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
