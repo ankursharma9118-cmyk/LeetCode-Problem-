@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0074-search-a-2d-matrix) |
+| [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -38,6 +39,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -45,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
