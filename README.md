@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -59,5 +60,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
