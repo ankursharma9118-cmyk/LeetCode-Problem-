@@ -17,6 +17,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1991-find-the-middle-index-in-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1991-find-the-middle-index-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0344-reverse-string](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0905-sort-array-by-parity) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
