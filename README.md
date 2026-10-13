@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0075-sort-colors) |
 | [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
@@ -28,16 +29,19 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,4 +75,8 @@
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0784-letter-case-permutation) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
