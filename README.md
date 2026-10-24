@@ -16,6 +16,7 @@
 | [0905-sort-array-by-parity](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1991-find-the-middle-index-in-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -49,6 +50,7 @@
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0905-sort-array-by-parity) |
+| [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
 ## Quicksort
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
 | [1991-find-the-middle-index-in-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -103,5 +106,10 @@
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2161-partition-array-according-to-given-pivot) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
