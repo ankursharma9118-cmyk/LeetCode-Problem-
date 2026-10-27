@@ -1,0 +1,20 @@
+class Solution {
+public:
+    bool isSubsequence(string s, string t) {
+        int i = 0, j = 0;
+        int n = s.length(), m = t.length();
+
+        while (i < n && j < m) {
+            if (s[i] == t[j]) {
+                i++;
+            }
+            j++;
+        }
+
+        return i == n;
+    }
+};
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
