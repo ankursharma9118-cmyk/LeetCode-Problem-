@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0763-partition-labels) |
@@ -70,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0763-partition-labels) |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [0764-largest-plus-sign](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0764-largest-plus-sign) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
