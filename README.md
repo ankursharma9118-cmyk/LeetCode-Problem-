@@ -40,6 +40,7 @@
 | [0125-valid-palindrome](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -82,6 +84,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0344-reverse-string) |
+| [0763-partition-labels](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
