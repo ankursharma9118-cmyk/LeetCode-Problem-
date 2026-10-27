@@ -12,6 +12,7 @@
 | [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
+| [0764-largest-plus-sign](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0764-largest-plus-sign) |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0764-largest-plus-sign](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0764-largest-plus-sign) |
 <!---LeetCode Topics End-->
