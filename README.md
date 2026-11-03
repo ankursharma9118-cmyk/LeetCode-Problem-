@@ -26,6 +26,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1991-find-the-middle-index-in-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1345-jump-game-iv) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
