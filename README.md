@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0645-set-mismatch) |
 | [0764-largest-plus-sign](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0764-largest-plus-sign) |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0905-sort-array-by-parity) |
@@ -59,6 +60,7 @@
 | [0056-merge-intervals](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0905-sort-array-by-parity) |
 | [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
@@ -84,6 +86,7 @@
 | [0202-happy-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -112,6 +115,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0784-letter-case-permutation) |
 ## Bubble Sort
 |  |
