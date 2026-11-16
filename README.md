@@ -22,6 +22,7 @@
 | [1094-car-pooling](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1094-car-pooling) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1345-jump-game-iv) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1991-find-the-middle-index-in-array](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1991-find-the-middle-index-in-array) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0392-is-subsequence) |
 | [0764-largest-plus-sign](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0764-largest-plus-sign) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
