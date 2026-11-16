@@ -120,6 +120,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0784-letter-case-permutation) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -161,4 +162,17 @@
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1345-jump-game-iv) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->
