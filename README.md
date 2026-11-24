@@ -36,6 +36,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0611-valid-triangle-number](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0611-valid-triangle-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Matrix
 |  |
@@ -124,6 +125,7 @@
 | [0645-set-mismatch](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0784-letter-case-permutation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0392-is-subsequence](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0392-is-subsequence) |
 | [0764-largest-plus-sign](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/0764-largest-plus-sign) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Math
 |  |
 | ------- |
@@ -167,14 +170,17 @@
 | ------- |
 | [1345-jump-game-iv](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1345-jump-game-iv) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Tree
 |  |
 | ------- |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,4 +189,12 @@
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Design
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ankursharma9118-cmyk/LeetCode-Problem-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
